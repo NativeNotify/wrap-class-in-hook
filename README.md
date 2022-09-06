@@ -7,7 +7,7 @@ import registerNNPushToken from 'native-notify';
 function wrapClassInHook(Component) {
   return function WrappedComponent(props) {
     registerNNPushToken(your-app-id, 'your-app-token');
-      // go to https://nativenotify.com and sign up for free (no credit card required) to get your App ID and App Token
+      // go to https://NativeNotify.com and sign up for free (no credit card required) to get your App ID and App Token
     return <Component />
   }
 }
