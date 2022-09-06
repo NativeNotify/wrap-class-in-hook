@@ -1,4 +1,7 @@
 # wrap-class-in-hook
+Video walkthrough of this code: https://youtu.be/hM7eXxd0Ohs
+
+App.js code:
 ```
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
