@@ -1,4 +1,5 @@
 # wrap-class-in-hook
+```
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 import registerNNPushToken from 'native-notify';
@@ -31,3 +32,4 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+```
